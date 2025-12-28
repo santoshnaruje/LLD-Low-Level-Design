@@ -2,6 +2,7 @@
 
 A comprehensive repository demonstrating **SOLID Principles** and **Design Patterns** with implementations in **C++, Python, Java, and JavaScript**.
 
+
 ## 📚 Repository Structure
 
 ```
@@ -20,7 +21,8 @@ LLD/
 
 ## 🎯 SOLID Principles
 
-All SOLID principles are implemented with **clear problem/solution examples** based on **Shrayansh Jain's "Concept && Coding"** YouTube channel.
+All SOLID principles are implemented with **clear problem/solution examples** to demonstrate violations and correct implementations.
+
 
 ### 1. Single Responsibility Principle (SRP)
 **"A class should have only one reason to change."**
@@ -97,13 +99,12 @@ cd Solid_Principles/Single_Responsibility_Principle
 node 01_SRP.js
 ```
 
-## 📖 Learning Resources
+## 📖 About
 
-This repository is based on examples from:
-- **Shrayansh Jain's "Concept && Coding"** YouTube channel
-- Video references included in code comments
+This repository contains educational implementations of SOLID principles and design patterns for learning purposes.
 
 ## 🤝 Contributing
+
 
 Feel free to contribute by:
 - Adding more design patterns

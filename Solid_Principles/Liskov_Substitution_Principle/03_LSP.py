@@ -1,7 +1,6 @@
 from abc import ABC, abstractmethod
 
 # TITLE: Liskov Substitution Principle (LSP) - Vehicle Example
-# Source: Shrayansh Jain's video (129QkkXUHeQ)
 
 # THE PROBLEM (VIOLATION):
 class Vehicle(ABC):

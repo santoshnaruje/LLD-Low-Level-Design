@@ -1,0 +1,43 @@
+# Compiled files
+*.class
+*.o
+*.out
+*.exe
+*.pyc
+__pycache__/
+*.so
+*.dll
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build directories
+build/
+dist/
+target/
+out/
+
+# Node modules (for JavaScript)
+node_modules/
+package-lock.json
+
+# Python virtual environments
+venv/
+env/
+.env
+
+# Java
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db

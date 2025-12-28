@@ -41,7 +41,6 @@ SOLID is an acronym for five design principles intended to make software designs
 
 **The Solution**: Refactor the hierarchy. Create `Vehicle` (general) with only `getNumberOfWheels()`. Create `EngineVehicle` extending `Vehicle` with `hasEngine()`. `MotorCycle` and `Car` extend `EngineVehicle`. `Bicycle` extends only `Vehicle`.
 
-**Source**: This example is from Shrayansh Jain's specific LSP video (ID: 129QkkXUHeQ).
 
 
 

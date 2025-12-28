@@ -1,7 +1,6 @@
 #include <iostream>
 
 // TITLE: Liskov Substitution Principle (LSP) - Vehicle Example
-// Source: Shrayansh Jain's video (129QkkXUHeQ)
 
 // THE PROBLEM (VIOLATION):
 // Vehicle base class with hasEngine() method

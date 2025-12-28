@@ -1,0 +1,18 @@
+# Compiled C++ files
+*.o
+*.out
+*.exe
+
+# Compiled Java files
+*.class
+
+# Python cache
+*.pyc
+__pycache__/
+
+# Node modules
+node_modules/
+
+# IDE files
+.vscode/
+.idea/

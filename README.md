@@ -75,27 +75,27 @@ The Observer pattern defines a one-to-many dependency between objects so that wh
 
 ### C++ Examples
 ```bash
-cd Solid_Principles/Single_Responsibility_Principle
+cd SolidPrinciples/Single_Responsibility_Principle
 g++ 01_SRP.cpp -o srp
 ./srp
 ```
 
 ### Python Examples
 ```bash
-cd Solid_Principles/Single_Responsibility_Principle
+cd SolidPrinciples/Single_Responsibility_Principle
 python3 01_SRP.py
 ```
 
 ### Java Examples
 ```bash
-cd Solid_Principles/Single_Responsibility_Principle
+cd SolidPrinciples/Single_Responsibility_Principle
 javac Main.java
 java Main
 ```
 
 ### JavaScript Examples
 ```bash
-cd Solid_Principles/Single_Responsibility_Principle
+cd SolidPrinciples/Single_Responsibility_Principle
 node 01_SRP.js
 ```
 

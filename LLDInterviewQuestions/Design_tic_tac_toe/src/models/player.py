@@ -1,4 +1,4 @@
-from LLDInterviewQuestions.Design_tic_tac_toe.models.playing_piece import PlayingPiece
+from src.models.playing_piece import PlayingPiece
 
 
 class Player:

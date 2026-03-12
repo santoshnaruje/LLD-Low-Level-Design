@@ -1,4 +1,4 @@
-from LLDInterviewQuestions.Design_tic_tac_toe.enums.piece_type import PieceType
+from src.enums.piece_type import PieceType
 
 
 class PlayingPiece:

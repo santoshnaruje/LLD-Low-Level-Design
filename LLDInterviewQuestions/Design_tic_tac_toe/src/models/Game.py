@@ -1,10 +1,10 @@
 from collections import deque
 
-from LLDInterviewQuestions.Design_tic_tac_toe.enums.piece_type import PieceType
-from LLDInterviewQuestions.Design_tic_tac_toe.models.PlayingPieceY import PlayingPieceY
-from LLDInterviewQuestions.Design_tic_tac_toe.models.board import Board
-from LLDInterviewQuestions.Design_tic_tac_toe.models.player import Player
-from LLDInterviewQuestions.Design_tic_tac_toe.models.playingPieceX import PlayingPieceX
+from src.enums.piece_type import PieceType
+from src.models.PlayingPieceY import PlayingPieceY
+from src.models.board import Board
+from src.models.player import Player
+from src.models.playingPieceX import PlayingPieceX
 
 
 class Game:

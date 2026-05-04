@@ -1,0 +1,2 @@
+# Optional: pytest>=8.0.0
+# Tests use stdlib unittest: python3 -m unittest discover -s tests -p 'test_*.py'
